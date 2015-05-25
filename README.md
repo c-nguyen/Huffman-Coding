@@ -1,7 +1,7 @@
 # Huffman-Coding
 Java code for Huffman Coding
 
-CS 241: Data Structures and Algorithms II
+CS 241: Data Structures and Algorithms II<br>
 Assignment 3
 
 Assignment Details
